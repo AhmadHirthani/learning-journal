@@ -1,6 +1,6 @@
 ## Welcome to learning journal about Markdown language
 
-You can find more about Markdown language the [editor on GitHub](https://github.com/AhmadHirthani/learning-journal/edit/master/README.md).
+You can find more about Markdown language the [learning journal page](https://github.com/AhmadHirthani/learning-journal/edit/master/README.md).
 
 ## Markdown
 
@@ -10,7 +10,6 @@ Headings, Styling text, Quoting text, Quoting code, Links, Section links, Relati
 ### Headers:
 Lets start with the most important format in the Markdown which is Headings. For Headings we have six headers start from 1 to 6, # Header 1 is the biggest and ###### Header 6 is the smallest one. To use headers we use the hash tags in the start of the line we want to format. The count of hash tags used represent the header number.
 
-
 #### Headers Example:
 For the pre line we use four hash tags before the world #### Headers Example  because we want to use the header number four.
 
@@ -19,14 +18,11 @@ Thanks to Markdown, we can also write Emojis by typing EMOJICODE between two col
 
 #### EMOJI Example:
 :+1: The code +1 generate the like thumb.
+
 :shipit: The code shipit
 
 ### Ignoring Markdown formatting
-```markdown
-Syntax highlighted code block
+if we want to use one of the symbols that generates Markdown we prevent the symbols from generating Markdown by using the symbol \"\".
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
