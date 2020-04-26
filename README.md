@@ -1,6 +1,6 @@
 ## Welcome to learning journal about Markdown language
 
-You can find more about Markdown language the [learning journal page](https://github.com/AhmadHirthani/learning-journal/edit/master/README.md).
+You can find more about Markdown language the [learning journal page](https://ahmadhirthani.github.io/learning-journal/).
 
 ## Markdown
 
