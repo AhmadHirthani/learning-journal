@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to learning journal about Markdown language
 
-You can use the [editor on GitHub](https://github.com/AhmadHirthani/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can find more about Markdown language the [editor on GitHub](https://github.com/AhmadHirthani/learning-journal/edit/master/README.md).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Markdown
 
-### Markdown
+Markdown is A simple way to format text or code that is written in the GitHub files. Formatting includes
+Headings, Styling text, Quoting text, Quoting code, Links, Section links, Relative links, Lists, Task lists, Mentioning people and teams, Referencing issues and pull requests, Referencing external resources, Content attachments, Using emoji and Paragraphs.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Headers:
+Lets start with the most important format in the Markdown which is Headings. For Headings we have six headers start from 1 to 6, # Header 1 is the biggest and ###### Header 6 is the smallest one. To use headers we use the hash tags in the start of the line we want to format. The count of hash tags used represent the header number.
 
+
+#### Headers Example:
+For the pre line we use four hash tags before the world #### Headers Example  because we want to use the header number four.
+
+### EMOJIs:
+Thanks to Markdown, we can also write Emojis by typing EMOJICODE between two colons
+
+#### EMOJI Example:
+:+1: The code +1 generate the like thumb.
+:shipit: The code shipit
+
+### Ignoring Markdown formatting
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AhmadHirthani/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
