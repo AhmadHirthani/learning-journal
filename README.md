@@ -1,28 +1,14 @@
-## Welcome to learning journal about Markdown language
+## Welcome to learning journal about Growth mindset
 
-You can find more about Markdown language the [learning journal page](https://ahmadhirthani.github.io/learning-journal/).
+You can find more about Growth mindset at the [Growth mindset](https://ahmadhirthani.github.io/learning-journal/).
 
-## Markdown
+## Growth mindset
 
-Markdown is A simple way to format text or code that is written in the GitHub files. Formatting includes
-Headings, Styling text, Quoting text, Quoting code, Links, Section links, Relative links, Lists, Task lists, Mentioning people and teams, Referencing issues and pull requests, Referencing external resources, Content attachments, Using emoji and Paragraphs.
+The growth mindset believes that one's basic capabilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
+
+In contrast, intelligence and talent in a fixed mindset are seen as fixed traits, suggesting that success comes from these inherent traits alone, without the need for further development or effort.
 
 ### Headers:
-Lets start with the most important format in the Markdown which is Headings. For Headings we have six headers start from 1 to 6, # Header 1 is the biggest and ###### Header 6 is the smallest one. To use headers we use the hash tags in the start of the line we want to format. The count of hash tags used represent the header number.
-
-#### Headers Example:
-For the pre line we use four hash tags before the world #### Headers Example  because we want to use the header number four.
-
-### EMOJIs:
-Thanks to Markdown, we can also write Emojis by typing EMOJICODE between two colons \:EMOJICODE\:.
-
-#### EMOJI Example:
-:+1: The code +1 generate the like thumb.
-
-:shipit: The code shipit
-
-### Ignoring Markdown formatting
-If we want to use one of the symbols that generates Markdown we prevent the symbols from generating Markdown by using the symbol \\.
-
-
-
+1. If you encounter ** criticism **, learn from it.
+1. If you encounter  obstacles, persists working.
+1. If you encounter an isue which needs alot of effort, remember that no, pain no gain
