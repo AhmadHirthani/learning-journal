@@ -14,7 +14,7 @@ Lets start with the most important format in the Markdown which is Headings. For
 For the pre line we use four hash tags before the world #### Headers Example  because we want to use the header number four.
 
 ### EMOJIs:
-Thanks to Markdown, we can also write Emojis by typing EMOJICODE between two colons.
+Thanks to Markdown, we can also write Emojis by typing EMOJICODE between two colons \:EMOJICODE\:.
 
 #### EMOJI Example:
 :+1: The code +1 generate the like thumb.
