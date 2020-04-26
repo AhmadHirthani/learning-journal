@@ -14,7 +14,7 @@ Lets start with the most important format in the Markdown which is Headings. For
 For the pre line we use four hash tags before the world #### Headers Example  because we want to use the header number four.
 
 ### EMOJIs:
-Thanks to Markdown, we can also write Emojis by typing EMOJICODE between two colons
+Thanks to Markdown, we can also write Emojis by typing EMOJICODE between two colons.
 
 #### EMOJI Example:
 :+1: The code +1 generate the like thumb.
@@ -22,7 +22,7 @@ Thanks to Markdown, we can also write Emojis by typing EMOJICODE between two col
 :shipit: The code shipit
 
 ### Ignoring Markdown formatting
-if we want to use one of the symbols that generates Markdown we prevent the symbols from generating Markdown by using the symbol \"\".
+If we want to use one of the symbols that generates Markdown we prevent the symbols from generating Markdown by using the symbol \\.
 
 
 
