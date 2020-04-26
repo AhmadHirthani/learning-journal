@@ -8,7 +8,8 @@ The growth mindset believes that one's basic capabilities can be developed throu
 
 In contrast, intelligence and talent in a fixed mindset are seen as fixed traits, suggesting that success comes from these inherent traits alone, without the need for further development or effort.
 
-### Headers:
-1. If you encounter ** criticism **, learn from it.
-1. If you encounter  obstacles, persists working.
-1. If you encounter an isue which needs alot of effort, remember that no, pain no gain
+### keep yourself in a growth mindset:
+1. If you encounter **criticism**, learn from it.
+1. If you encounter  **obstacles**, persists working.
+1. If you encounter an isue which needs alot of **effort**, remember that no, pain no gain.
+
