@@ -1,5 +1,5 @@
 ## Welcome to learning journal about Markdown language
-You can find more about Markdown language at the [Markdown language page](https://ahmadhirthani.github.io/learning-journal/).
+You can find more about Markdown language at the [Markdown language page](https://ahmadhirthani.github.io/learning-journal/markdown).
 
 ### Markdown
 Markdown is A simple way to format text or code that is written in the GitHub files. Formatting includes Headings, Styling text, Quoting text, Quoting code, Links, Section links, Relative links, Lists, Task lists, Mentioning people and teams, Referencing issues and pull requests, Referencing external resources, Content attachments, Using emoji and Paragraphs.
