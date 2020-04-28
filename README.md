@@ -1,5 +1,5 @@
 ## Welcome to Ahmad Alhirthani Learning-Journal Page
-You can find more about Markdown language at the [Markdown language page](https://ahmadhirthani.github.io/learning-journal/).
+You can find more about Markdown language at the [Learning-Journal Page](https://ahmadhirthani.github.io/learning-journal/).
 
 ### Intro
 On this page I am trying to talk about some of the things that need to be simplified. Read about it and write in a way that the average reader can understand. The goal is to simplify things to become more understanding and thus contribute more to the spread of science.
