@@ -13,5 +13,6 @@ On this page I am trying to talk about some of the things that need to be simpli
 3 | *__Coder's computer__* | [Coder's computer](https://ahmadhirthani.github.io/learning-journal/coders_computer)
 4 | *__HTML__* | [HTML](https://ahmadhirthani.github.io/learning-journal/html)
 5 | *__CSS__* | [CSS](https://ahmadhirthani.github.io/learning-journal/css)
+6 | *__Git__* | [Git](https://ahmadhirthani.github.io/learning-journal/git)
 
 
