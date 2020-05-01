@@ -8,7 +8,6 @@ Computer transmit data between its component and with other computers using elec
 Actually these electrical signs are either 5 volts (on) or 0 Volts (off). This means we need a maner to represent our data as on/off. Thanks to ### Binary system we can represent everytrhing with Zero's and One's and these Zero's and One's are translated into on/off electrical signs. In Decimal system, the number 1951 is (1x**1**)+(5x**10**)+(9x**100**)+(1x**1000**)=1951. But in binary system, the number 1010 is (0x**1**)+(1x**2**)+(0x**4**)+(1x**8**)=10. The main idea og binary system is transform the normal numbers into binary system. For text we assign a number for each charachter then it is easy to convert number to binary. For images each image consist of pixels which a set of numbers for each color of basic colors.
 ![Image of Binary](https://drive.google.com/file/d/1kwsNH5eMjFO3H29zG0MQlUsJTQf1s1zt/view?usp=sharing)
 
-
 ### Hardware and Software
 We can see the physical component of computer such as stuff, circuits, chips, wires, speackers and plugs. But we can not see the Computer software which is the programs or code that run on hardware.
 
