@@ -17,6 +17,9 @@ On this page I am trying to talk about some of the things that need to be simpli
 7 | *__JavaScript__* | [JavaScript](https://ahmadhirthani.github.io/learning-journal/javascript)
 8 | *__How Computer Works__* | [How Computer Works](https://ahmadhirthani.github.io/learning-journal/howComputerWrorks)
 9 | *__Programming with JavaScript__* | [Programming with JavaScript](https://ahmadhirthani.github.io/learning-journal/jsprogramming)
+10 | *__Operators and Loops__* | [Operators and Loops](https://ahmadhirthani.github.io/learning-journal/operatorsAndLoops)
+
+
 
 
 
