@@ -34,6 +34,7 @@ The result will be (Both rounds passed:true)
 
 ## Loops
 Loops are used in each programming language. It is very important because it facilitae a lot of tasks that will be more complec without loops. Using loops can increase reuseability and decrease the number of repeated code. In javaScript we have three types of loops, for, while and do while. For used when we know the boundries (start and end point) of the loop. While is used when we dont know the boundries of the loop but we know a condition that loop will stop when this condition achieved. So if the condition is true the loop will run until the condtion becomes false. In contrast of while, do while start executing the loop code for one time then check the condition, if the condition is true it will continue, if false it will stop.
+![](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/JavaScript-Loops-1280x720.jpg)
 
 ### For loop example:
 var scores= [24. 32, 17]; //Array of scores
